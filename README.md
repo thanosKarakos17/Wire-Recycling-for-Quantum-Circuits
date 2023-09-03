@@ -1,2 +1,3 @@
 # Wire-Recycling-for-Quantum-Circuits
-Optimization Algorithm for Quantum Systems
+
+From an initial Quantum Circuit (contains 2-qubit gates) to a more simplified circuit with reduced number of wires
